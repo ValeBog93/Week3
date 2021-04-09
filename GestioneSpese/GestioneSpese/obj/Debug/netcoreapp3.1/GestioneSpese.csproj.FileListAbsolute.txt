@@ -1,0 +1,13 @@
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\bin\Debug\netcoreapp3.1\GestioneSpese.exe
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\bin\Debug\netcoreapp3.1\GestioneSpese.deps.json
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\bin\Debug\netcoreapp3.1\GestioneSpese.runtimeconfig.json
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\bin\Debug\netcoreapp3.1\GestioneSpese.runtimeconfig.dev.json
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\bin\Debug\netcoreapp3.1\GestioneSpese.dll
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\bin\Debug\netcoreapp3.1\GestioneSpese.pdb
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\obj\Debug\netcoreapp3.1\GestioneSpese.csprojAssemblyReference.cache
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\obj\Debug\netcoreapp3.1\GestioneSpese.AssemblyInfoInputs.cache
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\obj\Debug\netcoreapp3.1\GestioneSpese.AssemblyInfo.cs
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\obj\Debug\netcoreapp3.1\GestioneSpese.csproj.CoreCompileInputs.cache
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\obj\Debug\netcoreapp3.1\GestioneSpese.dll
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\obj\Debug\netcoreapp3.1\GestioneSpese.pdb
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese\obj\Debug\netcoreapp3.1\GestioneSpese.genruntimeconfig.cache

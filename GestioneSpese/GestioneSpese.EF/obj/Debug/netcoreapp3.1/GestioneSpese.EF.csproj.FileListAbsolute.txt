@@ -1,0 +1,16 @@
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\bin\Debug\netcoreapp3.1\GestioneSpese.exe
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\bin\Debug\netcoreapp3.1\GestioneSpese.EF.deps.json
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\bin\Debug\netcoreapp3.1\GestioneSpese.EF.runtimeconfig.json
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\bin\Debug\netcoreapp3.1\GestioneSpese.EF.runtimeconfig.dev.json
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\bin\Debug\netcoreapp3.1\GestioneSpese.EF.dll
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\bin\Debug\netcoreapp3.1\GestioneSpese.EF.pdb
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\bin\Debug\netcoreapp3.1\GestioneSpese.dll
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\bin\Debug\netcoreapp3.1\GestioneSpese.pdb
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\obj\Debug\netcoreapp3.1\GestioneSpese.EF.csprojAssemblyReference.cache
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\obj\Debug\netcoreapp3.1\GestioneSpese.EF.AssemblyInfoInputs.cache
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\obj\Debug\netcoreapp3.1\GestioneSpese.EF.AssemblyInfo.cs
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\obj\Debug\netcoreapp3.1\GestioneSpese.EF.csproj.CoreCompileInputs.cache
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\obj\Debug\netcoreapp3.1\GestioneSpese.EF.csproj.CopyComplete
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\obj\Debug\netcoreapp3.1\GestioneSpese.EF.dll
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\obj\Debug\netcoreapp3.1\GestioneSpese.EF.pdb
+C:\Users\valentyna.bogachova\Desktop\ProvaWeek3\GestioneSpese\GestioneSpese.EF\obj\Debug\netcoreapp3.1\GestioneSpese.EF.genruntimeconfig.cache
